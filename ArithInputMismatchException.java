@@ -1,3 +1,6 @@
+13. Write a Java Program to Handle Arithmetic Exceptions and InputMisMatchExceptions.
+
+
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class ArithInputMismatchException {
@@ -22,6 +25,10 @@ public class ArithInputMismatchException {
     }
 }
 
+output:-
+You Shouldn't divide a number by zero
+Enter an integer: e
+You have entered invalid data
 
 
 
